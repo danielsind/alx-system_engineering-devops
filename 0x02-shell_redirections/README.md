@@ -1,0 +1,1 @@
+Script of Shell directions
